@@ -1,4 +1,4 @@
-uid,gender,status,statusUpdatedAt,statusPrevious,age,areaCode,state,recurrence,activation date,end portability date,current package
+uid,gender,status,statusUpdatedAt,statusPrevious,age,areaCode,state,recurrence,activation_date,end_portability_date,current_package
 00AJmuB7JTe5qJJuG99sLHthmVX2,masculino,paused,2/14/2021,paymentFailedSubscription,27,17,SP,monthly,12/12/2020,12/16/2020,customPackage
 011nhqQ4gyMCNfwLdjjXaRPo5PF3,masculino,active,3/3/2021,activationComplete,32,64,GO,monthly,3/3/2021,3/6/2021,customPackage
 01zSzL2oaLYLVlsHeHFyiVyyvf82,masculino,canceled,2/21/2021,cancelRequested,54,11,SP,weekly,10/23/2020,,customPackage
